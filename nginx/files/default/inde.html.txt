@@ -1,0 +1,14 @@
+<h1>java home -Registration</h1>
+<form>
+<%
+   cource =["java","devops". "sfs"]
+
+%>     
+
+<%="ths is coming from ruby code"%.
+<%= node['ipaddress']%>
+first name:<br>
+<input type="text" name="firstname"><br>
+lastname:<br>  
+  
+</form>
